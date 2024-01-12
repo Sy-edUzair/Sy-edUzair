@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**Sy-edUzair/Sy-edUzair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi there! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Syed Uzair Hussain, a Computer Science student with a passion for coding since 7th grade. 🚀
+
+### About Me
+
+- 🎓 Studying Computer Science from FAST NUCES
+- 💻 Love programming and problem-solving
+- 🌐 Always exploring new technologies/languages/frameworks
+
+### Skills
+
+- 🔧 Proficient in C++,C(as of now)
+- 🌐 Web technologies: HTML, CSS, JavaScript(a little bit)
+- 🚀 Keen on Algorithms and Data Structures
+- 🚀 Currently on a Flutter journey, exploring the exciting realm of mobile app development and enhancing my skills in this vibrant framework! 📱✨
+
+### Let's Connect
+💼 LinkedIn: https://www.linkedin.com/in/syed-uzair-hussain/
+
+Let's code and build amazing things together! 🌟
