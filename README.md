@@ -13,9 +13,9 @@ I'm Syed Uzair Hussain, a Computer Science student with a passion for coding sin
 ### Skills
 
 - 🔧 Proficient in C++,C,Python
-- 🌐 Web technologies: HTML, CSS, JavaScript(a little bit)
+- 🌐 Web technologies: HTML, CSS, JavaScript(a little bit),Python and Django
 - 🚀 Keen on Algorithms and Data Structures
-- 🚀 Currently on a Flutter journey, exploring the exciting realm of mobile app development and enhancing my skills in this vibrant framework! 📱✨
+- 🚀 Currently on a Django and JS journey, exploring the exciting realm of web development and enhancing my skills in this vibrant framework! 📱✨
 
 ### Let's Connect
 💼 LinkedIn: https://www.linkedin.com/in/syed-uzair-hussain/
