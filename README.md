@@ -17,10 +17,8 @@ I'm Syed Uzair Hussain, a Computer Science student with a passion for coding sin
 - 🚀 Keen on Algorithms and Data Structures
 - 🚀 Currently on a Django and JS journey, exploring the exciting realm of web development and enhancing my skills in this vibrant framework! 📱✨
 
-### Let's Connect
-💼 [![LinkedIn](linkedin.svg)](https://www.linkedin.com/in/syed-uzair-hussain/)
-
-💬 [![Discord](discord.svg)](https://discordapp.com/users/1065645882147610735)
+### Let's Connect !
+[![LinkedIn](linkedin.svg)](https://www.linkedin.com/in/syed-uzair-hussain/)[![Discord](discord.svg)](https://discordapp.com/users/1065645882147610735)
 
 Let's code and build amazing things together! 🌟
 
