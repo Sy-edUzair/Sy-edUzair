@@ -19,11 +19,14 @@ I'm Syed Uzair Hussain, a Computer Science student with a passion for coding sin
 
 ### Let's Connect
 💼 LinkedIn: https://www.linkedin.com/in/syed-uzair-hussain/
+💬 Discord: https://discordapp.com/users/1065645882147610735
 
 Let's code and build amazing things together! 🌟
 
 
-![Most Used Languages](icon1.svg)![Most Used Languages](icon2.svg)![Most Used Languages](icon3.svg)![Most Used Languages](icon4.svg)![Most Used Languages](icon5.svg)![Most Used Languages](icon6.svg)![Most Used Languages](icon7.svg)![Most Used Languages](icon8.svg)![Most Used Languages](icon9.svg)![Most Used Languages](icon10.svg)![Most Used Languages](icon11.svg)
+![Most Used Languages](icon1.svg)![Most Used Languages](icon2.svg)![Most Used Languages](icon3.svg)![Most Used Languages](icon4.svg)![Most Used Languages](icon5.svg)!
+[Most Used Languages](icon6.svg)![Most Used Languages](icon7.svg)![Most Used Languages](icon8.svg)![Most Used Languages](icon9.svg)![Most Used Languages](icon10.svg)!
+[Most Used Languages](icon11.svg)
 
 
 
