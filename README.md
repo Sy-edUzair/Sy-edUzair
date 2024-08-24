@@ -12,8 +12,8 @@ I'm Syed Uzair Hussain, a Computer Science student with a passion for coding sin
 
 ### Skills
 
-- 🔧 Proficient in C++,C,Python
-- 🌐 Web technologies: HTML, CSS, JavaScript(a little bit),Python and Django
+- 🔧 Proficient in C++,C,Python,Django
+- 🌐 Web technologies: Python and Django Primarily
 - 🚀 Keen on Algorithms and Data Structures
 - 🚀 Currently on a Django and JS journey, exploring the exciting realm of web development and enhancing my skills in this vibrant framework! 📱✨
 
@@ -25,4 +25,4 @@ Let's code and build amazing things together! 🌟
 
 
 <a href="https://app.daily.dev/syeduzair59"><img src="https://api.daily.dev/devcards/v2/I0R5hn64FECLGDrpBlDPu.png?type=default&r=7i0" width="356" alt="Syed Uzair's Dev Card"/></a>
-
+[![Uzair's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sy-edUzair)](https://github.com/Sy-edUzair/github-readme-stats)
