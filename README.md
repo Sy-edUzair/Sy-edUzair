@@ -12,7 +12,7 @@ I'm Syed Uzair Hussain, a Computer Science student with a passion for coding sin
 
 ### Skills
 
-- 🔧 Proficient in C++,C,Python,Django
+- 🔧 Proficient in C++,C,Python,Django,Streamlit,TensorFlow,Pandas,Numpy,Seaborn
 - 🌐 Web technologies: Python and Django Primarily
 - 🚀 Keen on Algorithms and Data Structures
 - 🚀 Currently on a Django and JS journey, exploring the exciting realm of web development and enhancing my skills in this vibrant framework! 📱✨
