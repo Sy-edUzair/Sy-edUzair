@@ -24,7 +24,7 @@
 
 <img align="right" width="38%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFtZHZlaTJ0anFnZzBvcDQwbjZkZnZ6ZzBoZ3B6dHA3aGMzOGViYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-## 👋 About Me
+###👋 About Me
 
 I'm **Syed Uzair Hussain**, an **AI/ML Engineer** at **SiRiiL**, Karachi — building intelligent, scalable systems that solve real-world financial and analytical problems.
 
