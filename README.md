@@ -1,12 +1,11 @@
 <div align="center">
 
 ```
-███████╗██╗   ██╗███████╗██████╗     ██╗   ██╗███████╗ █████╗ ██╗██████╗ 
-██╔════╝╚██╗ ██╔╝██╔════╝██╔══██╗    ██║   ██║╚════██║██╔══██╗██║██╔══██╗
-███████╗ ╚████╔╝ █████╗  ██║  ██║    ██║   ██║    ██╔╝███████║██║██████╔╝
-╚════██║  ╚██╔╝  ██╔══╝  ██║  ██║    ██║   ██║   ██╔╝ ██╔══██║██║██╔══██╗
-███████║   ██║   ███████╗██████╔╝    ╚██████╔╝   ██║  ██║  ██║██║██║  ██║
-╚══════╝   ╚═╝   ╚══════╝╚═════╝      ╚═════╝    ╚═╝  ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
+   _______  __    ______    ____           __  __ _____    ___     ____    ____ 
+  / ___/\\ \\/ /   / ____/   / __ \\         / / / //__  /   /   |   /  _/   / __ \\
+  \\__ \\  \\  /   / __/     / / / /        / / / /   / /   / /| |   / /    / /_/ /
+ ___/ /  / /   / /___    / /_/ /        / /_/ /   / /__ / ___ | _/ /    / _, _/ 
+/____/  /_/   /_____/   /_____/         \\____/   /____//_/  |_|/___/   /_/ |_|  
 ```
 
 ### 🤖 AI/ML Engineer · Deep Learning · LLM Pipelines · Data Science
@@ -34,7 +33,7 @@
 
 I'm **Syed Uzair Hussain**, an **AI/ML Engineer** at **SiRiiL**, Karachi — building intelligent, scalable systems that solve real-world financial and analytical problems.
 
-- 🎓 **BS Computer Science** @ FAST NUCES, Karachi — **3.67/4.0 CGPA**
+- 🎓 **BS Computer Science** @ FAST NUCES, Karachi — **3.66/4.0 CGPA**
 - 🔭 Currently architecting **AI workflows** using LangChain & LangGraph for financial automation
 - 🌱 Deepening expertise in **LLM orchestration**, **RAG pipelines**, and **MLOps**
 - 💡 Passionate about turning messy data into intelligent, production-ready systems
@@ -71,6 +70,28 @@ I'm **Syed Uzair Hussain**, an **AI/ML Engineer** at **SiRiiL**, Karachi — bui
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 💼 Experience
+
+### 🏢 AI/ML Engineer — [SiRiiL](https://siriil.com) *(Dec 2025 – Present)*
+- Architected AI workflows using **LangChain** and **LangGraph** to automate financial operations, reconciliation, and decision logic
+- Reduced processing delays by **25%** by debugging and optimizing financial pipelines
+- Integrated AI-assisted validation into core financial statement production systems
+
+### 📊 Data Science Intern — [10Pearls](https://10pearls.com) *(Sep 2025 – Dec 2025)*
+- Built an end-to-end **AQI prediction system** on 23,000+ hourly readings across 1,000 days
+- Engineered **20+ features**: cyclical encodings, pollutant–weather interactions, rolling windows, lag features
+- Achieved **R²: 0.84 (24h) · 0.79 (48h) · 0.73 (72h)** using LightGBM multi-horizon models
+- Designed modular ML pipeline with preprocessing, EDA, ETL, feature store, and monitoring
+
+### 🤖 AI Intern — [SiRiiL](https://siriil.com) *(Jun 2025 – Sep 2025)*
+- Designed end-to-end reconciliation pipeline, reducing manual workload by **30%**
+- Integrated LangChain + LangGraph with Django REST Framework for multi-module data sync
+- Improved financial reporting accuracy by **25%** through deferred income workflow design
+
+---
 
 ## 🚀 Featured Projects
 
