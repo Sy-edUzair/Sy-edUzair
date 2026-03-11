@@ -96,6 +96,8 @@ Built a natural language interface for PDFs using **GPT-4.0** and a full **RAG p
 Multi-horizon AQI forecasting on 23,000+ hourly readings. **R²: 0.84/0.79/0.73** across 24h/48h/72h horizons. Production-ready CI/CD pipeline from preprocessing to feature store.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### ✍️ Handwriting Verification & Validation
