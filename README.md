@@ -25,9 +25,9 @@
 
 ### 👋 About Me
 
-I'm **Syed Uzair Hussain**, an **AI/ML Engineer** at **SiRiiL**, Karachi — building intelligent, scalable systems that solve real-world financial and analytical problems.
+I'm **Syed Uzair Hussain**, an **AI/ML Engineer** at **SiRiiL**, Karachi - building intelligent, scalable systems that solve real-world financial and analytical problems.
 
-- 🎓 **BS Computer Science** @ FAST NUCES, Karachi — **3.66/4.0 CGPA**
+- 🎓 **BS Computer Science** @ FAST NUCES, Karachi - **3.66/4.0 CGPA**
 - 🔭 Currently architecting **AI workflows** using LangChain & LangGraph for financial automation
 - 🌱 Deepening expertise in **LLM orchestration**, **RAG pipelines**, and **MLOps**
 - 💡 Passionate about turning messy data into intelligent, production-ready systems
