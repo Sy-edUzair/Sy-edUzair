@@ -36,7 +36,7 @@ I'm **Syed Uzair Hussain**, an **AI/ML Engineer** at **SiRiiL**, Karachi — bui
 
 <br clear="right"/>
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 **Languages**
 
@@ -97,13 +97,13 @@ I'm **Syed Uzair Hussain**, an **AI/ML Engineer** at **SiRiiL**, Karachi — bui
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📄 AI Powered Document Chat System
+#### 📄 AI Powered Document Chat System
 `Streamlit` `LangChain` `OpenAI` `ChromaDB` `RAG`
 
 Built a natural language interface for PDFs using **GPT-4.0 mini** and a full **RAG pipeline** — extraction, chunking, embeddings, persistent vector storage, and session-based agent memory. Supports multi-PDF upload with real-time source retrieval.
@@ -111,7 +111,7 @@ Built a natural language interface for PDFs using **GPT-4.0 mini** and a full **
 </td>
 <td width="50%" valign="top">
 
-### 🌫️ Air Quality Forecasting System
+#### 🌫️ Air Quality Forecasting System
 `LightGBM` `Pandas` `Hopsworks` `GitHub Actions` `Gradio`
 
 Multi-horizon AQI forecasting on 23,000+ hourly readings. **R²: 0.84/0.79/0.73** across 24h/48h/72h horizons. Production-ready CI/CD pipeline from preprocessing to feature store.
@@ -121,7 +121,7 @@ Multi-horizon AQI forecasting on 23,000+ hourly readings. **R²: 0.84/0.79/0.73*
 <tr>
 <td width="50%" valign="top">
 
-### ✍️ Handwriting Verification & Validation
+#### ✍️ Handwriting Verification & Validation
 `Keras` `LSTM` `ResNet50` `Pandas`
 
 Fine-tuned **ResNet50** for writer classification on the IAM dataset (100+ classes). Built a **Siamese network** with contrastive loss. Tackled vanishing gradients by migrating from CNN-LSTM to ResNet50.
@@ -129,7 +129,7 @@ Fine-tuned **ResNet50** for writer classification on the IAM dataset (100+ class
 </td>
 <td width="50%" valign="top">
 
-### 📰 NewsFlow AI 
+#### 📰 NewsFlow AI 
 `FastAPI` `Streamlit` `LangChain` `OpenAI GPT-4` `Firecrawl MCP`
 
 An intelligent news aggregation and broadcasting platform that scrapes **Google News & Reddit** in real-time, summarizes trends using GPT-4, and converts them into **AI-generated audio briefings**. Features async scraping, rate limiting, retry logic, and a full REST API — production-ready from day one
@@ -140,7 +140,7 @@ An intelligent news aggregation and broadcasting platform that scrapes **Google 
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Sy-edUzair&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -153,7 +153,7 @@ An intelligent news aggregation and broadcasting platform that scrapes **Google 
 
 ---
 
-## 📈 Contribution Graph
+### 📈 Contribution Graph
 
 [![Syed Uzair's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sy-edUzair&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
