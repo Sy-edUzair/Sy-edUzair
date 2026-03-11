@@ -1,12 +1,6 @@
 <div align="center">
 
-```
-   _______  __    ______    ____           __  __ _____    ___     ____    ____ 
-  / ___/\\ \\/ /   / ____/   / __ \\         / / / //__  /   /   |   /  _/   / __ \\
-  \\__ \\  \\  /   / __/     / / / /        / / / /   / /   / /| |   / /    / /_/ /
- ___/ /  / /   / /___    / /_/ /        / /_/ /   / /__ / ___ | _/ /    / _, _/ 
-/____/  /_/   /_____/   /_____/         \\____/   /____//_/  |_|/___/   /_/ |_|  
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=80&lines=Hey%2C+I'm+Syed+Uzair+%F0%9F%91%8B;AI+%2F+ML+Engineer;LLM+Pipelines+%7C+Deep+Learning;Building+AI+that+works+in+production)](https://git.io/typing-svg)
 
 ### 🤖 AI/ML Engineer · Deep Learning · LLM Pipelines · Data Science
 
@@ -73,30 +67,18 @@ I'm **Syed Uzair Hussain**, an **AI/ML Engineer** at **SiRiiL**, Karachi — bui
 
 ---
 
-## 💼 Experience
-
-### 🏢 AI/ML Engineer — [SiRiiL](https://siriil.com) *(Dec 2025 – Present)*
-- Architected AI workflows using **LangChain** and **LangGraph** to automate financial operations, reconciliation, and decision logic
-- Reduced processing delays by **25%** by debugging and optimizing financial pipelines
-- Integrated AI-assisted validation into core financial statement production systems
-
-### 📊 Data Science Intern — [10Pearls](https://10pearls.com) *(Sep 2025 – Dec 2025)*
-- Built an end-to-end **AQI prediction system** on 23,000+ hourly readings across 1,000 days
-- Engineered **20+ features**: cyclical encodings, pollutant–weather interactions, rolling windows, lag features
-- Achieved **R²: 0.84 (24h) · 0.79 (48h) · 0.73 (72h)** using LightGBM multi-horizon models
-- Designed modular ML pipeline with preprocessing, EDA, ETL, feature store, and monitoring
-
-### 🤖 AI Intern — [SiRiiL](https://siriil.com) *(Jun 2025 – Sep 2025)*
-- Designed end-to-end reconciliation pipeline, reducing manual workload by **30%**
-- Integrated LangChain + LangGraph with Django REST Framework for multi-module data sync
-- Improved financial reporting accuracy by **25%** through deferred income workflow design
-
----
-
 ## 🚀 Featured Projects
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### 📰 NewsFlow AI 
+`FastAPI` `Streamlit` `LangChain` `OpenAI GPT-4` `Firecrawl MCP`
+
+An intelligent news aggregation and broadcasting platform that scrapes **Google News & Reddit** in real-time, summarizes trends using GPT-4, and converts them into **AI-generated audio briefings**. Features async scraping, rate limiting, retry logic, and a full REST API — production-ready from day one.
+
+</td>
 <td width="50%" valign="top">
 
 ### 📄 AI Powered Document Chat System
@@ -121,14 +103,6 @@ Multi-horizon AQI forecasting on 23,000+ hourly readings. **R²: 0.84/0.79/0.73*
 `Keras` `LSTM` `ResNet50` `Pandas`
 
 Fine-tuned **ResNet50** for writer classification on the IAM dataset (100+ classes). Built a **Siamese network** with contrastive loss. Tackled vanishing gradients by migrating from CNN-LSTM to ResNet50.
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 Stock Prediction App
-`IBM Watson Granite` `Streamlit` `Pandas`
-
-Integrated **IBM Watson Granite** for AI-powered financial insights with an interactive Streamlit interface, real-time stock data extraction, and automated backend data processing.
 
 </td>
 </tr>
