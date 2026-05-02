@@ -1,146 +1,169 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=70&lines=Hey%2C+I'm+Syed+Uzair+%F0%9F%91%8B;AI%2FML+Engineer+%C2%B7+LLM+Pipelines;Building+Intelligent+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=80&lines=Hey!+I+am+Syed+Uzair+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<img src="https://img.shields.io/badge/AI%2FML_Engineer-00D9FF?style=flat-square&labelColor=0D1117&color=00D9FF&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM_Pipelines-00D9FF?style=flat-square&labelColor=0D1117&color=00D9FF" />
-<img src="https://img.shields.io/badge/Deep_Learning-00D9FF?style=flat-square&labelColor=0D1117&color=00D9FF" />
-<img src="https://img.shields.io/badge/RAG_Architect-00D9FF?style=flat-square&labelColor=0D1117&color=00D9FF" />
-
-<br/><br/>
+### 🤖 AI/ML Engineer · Deep Learning · LLM Pipelines · Data Science
 
 <a href="https://linkedin.com/in/syed-uzair-hussain">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/Sy-edUzair">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://syeduzair-exe.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="mailto:usyed249@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
-<br/>
+---
 
-```python
-class SyedUzair:
-    role        = "AI/ML Engineer @ SiRiiL"
-    education   = "BS Computer Science · FAST NUCES · 3.66 GPA"
-    focus       = ["LLM Orchestration", "RAG Pipelines", "MLOps", "Financial AI"]
-    building    = "Intelligent, scalable systems for real-world problems"
-    passion     = "Turning messy data into production-ready intelligence"
-```
+<img align="right" width="38%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFtZHZlaTJ0anFnZzBvcDQwbjZkZnZ6ZzBoZ3B6dHA3aGMzOGViYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<br/>
+### 👋 About Me
+
+I'm **Syed Uzair Hussain**, an **AI/ML Engineer** at **SiRiiL**, Karachi - building intelligent, scalable systems that solve real-world financial and analytical problems.
+
+- 🎓 **BS Computer Science** @ FAST NUCES, Karachi - **3.66/4.0 CGPA**
+- 🔭 Currently architecting **AI workflows** using LangChain & LangGraph for financial automation
+- 🌱 Deepening expertise in **LLM orchestration**, **RAG pipelines**, and **MLOps**
+- 💡 Passionate about turning messy data into intelligent, production-ready systems
+- 📍 Based in **Karachi, Pakistan**
+
+<br clear="right"/>
 
 ---
 
-## ⚡ Tech Stack
+### 🛠️ Tech Stack
 
-<details open>
-<summary><b>🧠 AI / ML / Data</b></summary>
-<br/>
+**Languages**
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00D9FF)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=00D9FF)
-![Keras](https://img.shields.io/badge/Keras-0D1117?style=flat-square&logo=keras&logoColor=00D9FF)
-![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=chainlink&logoColor=00D9FF)
-![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logo=graphql&logoColor=00D9FF)
-![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=00D9FF)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=flat-square&logo=huggingface&logoColor=00D9FF)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=00D9FF)
-![LightGBM](https://img.shields.io/badge/LightGBM-0D1117?style=flat-square&logo=lightgbm&logoColor=00D9FF)
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=00D9FF)
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=00D9FF)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0D1117?style=flat-square&logo=databricks&logoColor=00D9FF)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-0D1117?style=flat-square&logo=openai&logoColor=00D9FF)
-![Hopsworks](https://img.shields.io/badge/Hopsworks-0D1117?style=flat-square&logo=apachespark&logoColor=00D9FF)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-</details>
+**AI / ML / Data**
 
-<details open>
-<summary><b>🛠️ Frameworks & APIs</b></summary>
-<br/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-2C2C2C?style=for-the-badge&logo=graphql&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=lightgbm&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-6DB33F?style=for-the-badge&logo=openai&logoColor=white)
+![Hopsworks](https://img.shields.io/badge/Hopsworks-00C4CC?style=for-the-badge&logo=apachespark&logoColor=white)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00D9FF)
-![Django](https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=00D9FF)
-![Django REST](https://img.shields.io/badge/Django_REST-0D1117?style=flat-square&logo=django&logoColor=00D9FF)
-![Flask](https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=00D9FF)
-![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=00D9FF)
-![Gradio](https://img.shields.io/badge/Gradio-0D1117?style=flat-square&logo=gradio&logoColor=00D9FF)
+**Frameworks & Tools**
 
-</details>
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Django Ledger](https://img.shields.io/badge/Django_Ledger-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white)
 
-<details open>
-<summary><b>☁️ DevOps, Cloud & Databases</b></summary>
-<br/>
+**DevOps & Cloud**
 
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00D9FF)
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=00D9FF)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=00D9FF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00D9FF)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=00D9FF)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=00D9FF)
-![Postman](https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=00D9FF)
-![Playwright](https://img.shields.io/badge/Playwright-0D1117?style=flat-square&logo=playwright&logoColor=00D9FF)
-![Jira](https://img.shields.io/badge/Jira-0D1117?style=flat-square&logo=jira&logoColor=00D9FF)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-239120?style=for-the-badge&logo=githubactions&logoColor=white)
 
-</details>
+**Developer Tools**
 
-<details>
-<summary><b>💬 Languages</b></summary>
-<br/>
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00D9FF)
-![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00D9FF)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=mysql&logoColor=00D9FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00D9FF)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-0D1117?style=flat-square&logo=html5&logoColor=00D9FF)
+**Databases**
 
-</details>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/Vector_DB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-| Project | Stack | Highlights |
-|---|---|---|
-| **📄 AI Document Chat System** | `LangChain` `GPT-4` `ChromaDB` `Streamlit` | Full RAG pipeline — extraction, chunking, embeddings, persistent vector storage, session-based agent memory. Multi-PDF with real-time source retrieval. |
-| **🌫️ Air Quality Forecasting** | `LightGBM` `Hopsworks` `GitHub Actions` `Gradio` | Multi-horizon AQI forecasting on 23K+ hourly readings. **R²: 0.84 / 0.79 / 0.73** across 24h / 48h / 72h. Production CI/CD from preprocessing to feature store. |
-| **✍️ Handwriting Verification** | `ResNet50` `Siamese Network` `Keras` `LSTM` | Fine-tuned ResNet50 for 100+ writer classes on IAM dataset. Siamese network with contrastive loss. Migrated CNN-LSTM → ResNet50 to resolve vanishing gradients. |
-| **📰 NewsFlow AI** | `FastAPI` `GPT-4` `LangChain` `Firecrawl MCP` | Real-time news scraping from Google News & Reddit. GPT-4 trend summaries → AI-generated audio briefings. Async scraping, rate limiting, retry logic, full REST API. |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📄 AI Powered Document Chat System
+`Streamlit` `LangChain` `OpenAI` `ChromaDB` `RAG`
+
+Built a natural language interface for PDFs using **GPT-4.0 mini** and a full **RAG pipeline** — extraction, chunking, embeddings, persistent vector storage, and session-based agent memory. Supports multi-PDF upload with real-time source retrieval.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌫️ Air Quality Forecasting System
+`LightGBM` `Pandas` `Hopsworks` `GitHub Actions` `Gradio`
+
+Multi-horizon AQI forecasting on 23,000+ hourly readings. **R²: 0.84/0.79/0.73** across 24h/48h/72h horizons. Production-ready CI/CD pipeline from preprocessing to feature store.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ✍️ Handwriting Verification & Validation
+`Keras` `LSTM` `ResNet50` `Pandas`
+
+Fine-tuned **ResNet50** for writer classification on the IAM dataset (100+ classes). Built a **Siamese network** with contrastive loss. Tackled vanishing gradients by migrating from CNN-LSTM to ResNet50.
+
+</td>
+<td width="50%" valign="top">
+
+#### 📰 NewsFlow AI 
+`FastAPI` `Streamlit` `LangChain` `OpenAI GPT-4` `Firecrawl MCP`
+
+An intelligent news aggregation and broadcasting platform that scrapes **Google News & Reddit** in real-time, summarizes trends using GPT-4, and converts them into **AI-generated audio briefings**. Features async scraping, rate limiting, retry logic, and a full REST API — production-ready from day one
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Sy-edUzair&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sy-edUzair&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-<img height="175px" src="https://github-readme-stats.vercel.app/api?username=Sy-edUzair&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" />
-<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sy-edUzair&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sy-edUzair&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=888888" />
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sy-edUzair&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-## 📈 Contribution Graph
+### 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sy-edUzair&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Syed Uzair's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sy-edUzair&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Sy-edUzair&style=flat-square&color=00D9FF&labelColor=0D1117" alt="Profile Views"/>
+*"Turning data into decisions, one model at a time."*
 
-<br/><br/>
-
-*`> turning data into decisions, one model at a time_`*
+⭐ **Feel free to explore my repos and drop a star if something interests you!**
 
 </div>
