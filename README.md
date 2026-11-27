@@ -29,6 +29,16 @@
 
 I'm an **Associate AI Engineer at Tezeract** in Karachi 🇵🇰, shipping production voice agents, multi-agent systems, and RAG pipelines for real clients with real users.
 
+#### 🎓 Education
+**BS Computer Science, Cum Laude** @ FAST NUCES Karachi · **3.67/4.0 CGPA**
+
+#### 💬 Let's talk about
+Voice agents · agentic workflows · production RAG · LLM evals · making AI fast enough that people actually use it
+
+> *Demos are easy. I build AI that runs in production.*
+
+<br clear="right"/>
+
 #### ⚡ Recent work
 - 🎙️ **Made a voice agent ~80% faster.** Cut response time from 5–10s to 1–2s on a LiveKit pipeline (Deepgram, Cartesia, ElevenLabs).
 - 📞 **Built an AI voice agent that took over after-hours calls** for a debt-recovery client. It handles 20–30 calls a day and passes 95% of its tool-calling tests.
@@ -37,24 +47,15 @@ I'm an **Associate AI Engineer at Tezeract** in Karachi 🇵🇰, shipping produ
 - ✅ **Made releases more reliable.** A 150-question LLM eval suite runs in CI/CD, and 92% of releases pass on the first run.
 
 #### 🧰 My toolkit
-**GenAI:** LangChain · LangGraph · multi-agent systems · RAG · LLM evals · prompt engineering
-**Voice AI:** LiveKit · Deepgram · Cartesia · ElevenLabs
-**Backend:** Python · Django/DRF · Flask · Celery · Redis · PostgreSQL
-**Shipping:** Docker · GitHub Actions · AWS · CI/CD · Langfuse
-**ML/CV:** TensorFlow · Keras · LightGBM · YOLO · OpenCV · MediaPipe
+- **GenAI:** LangChain · LangGraph · multi-agent systems · RAG · LLM evals · prompt engineering
+- **Voice AI:** LiveKit · Deepgram · Cartesia · ElevenLabs
+- **Backend:** Python · Django/DRF · Flask · Celery · Redis · PostgreSQL
+- **Shipping:** Docker · GitHub Actions · AWS · CI/CD · Langfuse
+- **ML/CV:** TensorFlow · Keras · LightGBM · YOLO · OpenCV · MediaPipe
 
 #### 🛤️ How I got here
 10Pearls (Data Science Intern) → SiRiiL (AI/ML Engineer, financial automation) → Tezeract (AI Intern) → **Tezeract (Associate AI Engineer)**
 
-#### 🎓 Education
-**BS Computer Science, Cum Laude** @ FAST NUCES Karachi · **3.67/4.0 CGPA**
-
-#### 💬 Let's talk about
-Voice agents · agentic workflows · production RAG · LLM evals · making AI fast enough that people actually use it
-
-> *Demos are easy. I build AI that runs in production.*
-> 
-<br clear="right"/>
 
 ---
 
