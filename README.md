@@ -23,16 +23,37 @@
 
 <img align="right" width="38%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFtZHZlaTJ0anFnZzBvcDQwbjZkZnZ6ZzBoZ3B6dHA3aGMzOGViYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### 👋 About Me
+### Hey, I'm Uzair 👋
 
-I'm **Syed Uzair Hussain**, an **AI/ML Engineer** at **SiRiiL**, Karachi - building intelligent, scalable systems that solve real-world financial and analytical problems.
+**I build AI agents that pick up the phone, close sales, and answer the questions people used to wait on.**
 
-- 🎓 **BS Computer Science** @ FAST NUCES, Karachi - **3.66/4.0 CGPA**
-- 🔭 Currently architecting **AI workflows** using LangChain & LangGraph for financial automation
-- 🌱 Deepening expertise in **LLM orchestration**, **RAG pipelines**, and **MLOps**
-- 💡 Passionate about turning messy data into intelligent, production-ready systems
-- 📍 Based in **Karachi, Pakistan**
+I'm an **Associate AI Engineer at Tezeract** in Karachi 🇵🇰, shipping production voice agents, multi-agent systems, and RAG pipelines for real clients with real users.
 
+#### ⚡ Recent work
+- 🎙️ **Made a voice agent ~80% faster.** Cut response time from 5–10s to 1–2s on a LiveKit pipeline (Deepgram, Cartesia, ElevenLabs).
+- 📞 **Built an AI voice agent that took over after-hours calls** for a debt-recovery client. It handles 20–30 calls a day and passes 95% of its tool-calling tests.
+- 🛍️ **Built a bilingual sales system that brought in 2,000+ KWD in orders.** Five agents work in Arabic and English over WhatsApp and web, with 95% recommendation accuracy.
+- 🔍 **Built a RAG chatbot with 97% Recall@K.** It uses hybrid search, reranking, and cited, source-grounded answers.
+- ✅ **Made releases more reliable.** A 150-question LLM eval suite runs in CI/CD, and 92% of releases pass on the first run.
+
+#### 🧰 My toolkit
+**GenAI:** LangChain · LangGraph · multi-agent systems · RAG · LLM evals · prompt engineering
+**Voice AI:** LiveKit · Deepgram · Cartesia · ElevenLabs
+**Backend:** Python · Django/DRF · Flask · Celery · Redis · PostgreSQL
+**Shipping:** Docker · GitHub Actions · AWS · CI/CD · Langfuse
+**ML/CV:** TensorFlow · Keras · LightGBM · YOLO · OpenCV · MediaPipe
+
+#### 🛤️ How I got here
+10Pearls (Data Science Intern) → SiRiiL (AI/ML Engineer, financial automation) → Tezeract (AI Intern) → **Tezeract (Associate AI Engineer)**
+
+#### 🎓 Education
+**BS Computer Science, Cum Laude** @ FAST NUCES Karachi · **3.67/4.0 CGPA**
+
+#### 💬 Let's talk about
+Voice agents · agentic workflows · production RAG · LLM evals · making AI fast enough that people actually use it
+
+> *Demos are easy. I build AI that runs in production.*
+> 
 <br clear="right"/>
 
 ---
